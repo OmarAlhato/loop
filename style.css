@@ -1,0 +1,11 @@
+table,
+th,
+td {
+    border: 2px solid rgb(226, 188, 188);
+}
+
+table {
+    width: 20%;
+    text-align: center;
+    color: blue;
+}
